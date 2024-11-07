@@ -1,0 +1,11 @@
+Model Information:
+* title:	U.S.S. Pegasus (Ambassador kitbash)
+* source:	https://sketchfab.com/3d-models/uss-pegasus-ambassador-kitbash-b7b9e68a703042ad9e1292baf44a92b6
+* author:	raenfox (https://sketchfab.com/raenfox)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "U.S.S. Pegasus (Ambassador kitbash)" (https://sketchfab.com/3d-models/uss-pegasus-ambassador-kitbash-b7b9e68a703042ad9e1292baf44a92b6) by raenfox (https://sketchfab.com/raenfox) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
