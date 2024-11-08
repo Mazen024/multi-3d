@@ -1,0 +1,11 @@
+Model Information:
+* title:	Realistic 3D model of Men's T-Shirt
+* source:	https://sketchfab.com/3d-models/realistic-3d-model-of-mens-t-shirt-875f77cefe7246c8951e2a46f4201066
+* author:	Shift4cube (https://sketchfab.com/Shift4cube)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Realistic 3D model of Men's T-Shirt" (https://sketchfab.com/3d-models/realistic-3d-model-of-mens-t-shirt-875f77cefe7246c8951e2a46f4201066) by Shift4cube (https://sketchfab.com/Shift4cube) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
