@@ -145,16 +145,16 @@ window.addEventListener("click", async (event) => {
       let scriptToLoad = "";
       switch (clickedId) {
         case 1:
-          scriptToLoad = "/script.js";
+          scriptToLoad = "./script.js";
           break;
         case 2:
-          scriptToLoad = "/script2.js";
+          scriptToLoad = "./script2.js";
           break;
         case 3:
-          scriptToLoad = "/script3.js";
+          scriptToLoad = "./script3.js";
           break;
         case 4:
-          scriptToLoad = "/script4.js";
+          scriptToLoad = "./script4.js";
           break;
       }
       if (scriptToLoad) {
